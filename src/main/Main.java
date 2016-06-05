@@ -73,7 +73,6 @@ public class Main {
 //		}
 //		KMeans testK = new KMeans();
 		
-		
 	}
 
 }
