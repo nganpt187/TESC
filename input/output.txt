@@ -1,0 +1,3 @@
+Danh sach the hien : [4.0, 3.5] ;Nhan cum : 1
+Danh sach the hien : [8.5, 2.7] ;Nhan cum : 2
+Danh sach the hien : [6.0, 5.0] ;Nhan cum : 2
